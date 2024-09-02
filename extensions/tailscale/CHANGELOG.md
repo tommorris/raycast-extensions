@@ -1,5 +1,9 @@
 # Tailscale Changelog
 
+## [Improvement] - 2024-09-02
+
+- Expand store description
+
 ## [Custom Admin Console URL] - 2024-07-05
 
 - Add support for custom Admin Console URLs ([#12048](https://github.com/raycast/extensions/issues/12048))
